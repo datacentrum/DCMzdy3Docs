@@ -1,0 +1,2 @@
+Technické parametry aplikace
+==================================
