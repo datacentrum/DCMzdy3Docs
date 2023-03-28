@@ -16,3 +16,4 @@ DC Mzdy 3 - Uživatelská dokumentace
    mzdove_slozky
    importy
    nastaveni_vyplatni_pasky
+   nastaveni_rekapitulace
