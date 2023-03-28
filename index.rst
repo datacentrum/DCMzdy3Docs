@@ -20,3 +20,4 @@ DC Mzdy 3 - Uživatelská dokumentace
    nastaveni_ucetniho_dokladu
    vypocet_dobirky
    uzamceni_mesice
+   zpetne_prepocty
