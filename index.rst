@@ -14,3 +14,4 @@ DC Mzdy 3 - Uživatelská dokumentace
    kalendare
    osoby_pomery
    mzdove_slozky
+   importy
