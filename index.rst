@@ -24,3 +24,4 @@ DC Mzdy 3 - Uživatelská dokumentace
    odeslani_vyplatnich_pasek
    penezni_prostredky
    komunikace_stat
+   sestavy
