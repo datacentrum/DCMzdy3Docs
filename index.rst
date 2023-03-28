@@ -13,3 +13,4 @@ DC Mzdy 3 - Uživatelská dokumentace
    konstanty
    kalendare
    osoby_pomery
+   mzdove_slozky
