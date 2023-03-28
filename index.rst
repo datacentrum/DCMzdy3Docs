@@ -21,3 +21,4 @@ DC Mzdy 3 - Uživatelská dokumentace
    vypocet_dobirky
    uzamceni_mesice
    zpetne_prepocty
+   odeslani_vyplatnich_pasek
