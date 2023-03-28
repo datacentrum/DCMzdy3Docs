@@ -22,3 +22,4 @@ DC Mzdy 3 - Uživatelská dokumentace
    uzamceni_mesice
    zpetne_prepocty
    odeslani_vyplatnich_pasek
+   penezni_prostredky
