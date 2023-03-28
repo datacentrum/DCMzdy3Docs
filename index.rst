@@ -7,3 +7,4 @@ DC Mzdy 3 - Uživatelská dokumentace
    :titlesonly:
    
    technicke_parametry
+   opravnen_osoby_role
