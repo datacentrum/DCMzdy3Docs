@@ -8,3 +8,7 @@ DC Mzdy 3 - Uživatelská dokumentace
    
    technicke_parametry
    opravnen_osoby_role
+   nastaveni_organizace
+   ciselniky
+   konstanty
+   kalendare
