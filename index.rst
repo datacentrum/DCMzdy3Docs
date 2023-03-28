@@ -15,3 +15,4 @@ DC Mzdy 3 - Uživatelská dokumentace
    osoby_pomery
    mzdove_slozky
    importy
+   nastaveni_vyplatni_pasky
