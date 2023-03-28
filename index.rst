@@ -12,3 +12,4 @@ DC Mzdy 3 - Uživatelská dokumentace
    ciselniky
    konstanty
    kalendare
+   osoby_pomery
