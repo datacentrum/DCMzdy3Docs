@@ -25,3 +25,6 @@ DC Mzdy 3 - Uživatelská dokumentace
    penezni_prostredky
    komunikace_stat
    sestavy
+   vykazy
+   dochazka
+   faq
