@@ -6,7 +6,7 @@ Mzdové složky
 
 .. list-table::
    :header-rows: 1
-   :widths: 20 20 60 40
+   :widths: 20 20 60 40 20
 
    * - Typ
      - Číslo MSL
