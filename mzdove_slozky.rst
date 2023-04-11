@@ -218,3 +218,7 @@ Mzdové složky
      - Minusová dobírka z předchozího období
      - Minusová dobírka předchozí
      - nezadává se
+
+:Typ: Z
+:Cislo: 1001
+:Nazev: Základní mzda (krácená odpracovanou dobou a úvazkem).
