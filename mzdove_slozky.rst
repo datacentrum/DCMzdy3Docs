@@ -220,5 +220,5 @@ Mzdové složky
      - nezadává se
 
 :Typ: Z
-:Cislo: 1001
-:Nazev: Základní mzda (krácená odpracovanou dobou a úvazkem).
+:Číslo msl: 1001
+:Název: Základní mzda (krácená odpracovanou dobou a úvazkem).
