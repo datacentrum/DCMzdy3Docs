@@ -224,8 +224,8 @@ Mzdové složky
 :Název MSL: Základní mzda (krácená odpracovanou dobou a úvazkem)
 :Název zkrácený: Základní mzda
 :Zadává se: Kč
-
-
+|
+|
 :Typ: Z
 :Číslo MSL: 1002
 :Název MSL: Základní mzda Kč/hod
