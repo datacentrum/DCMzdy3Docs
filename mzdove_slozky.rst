@@ -18,3 +18,8 @@ Mzdové složky
      - Základní mzda (krácená odpracovanou dobou a úvazkem)
      - Základní mzda
      - Kč   
+   * - Z
+     - 1002
+     - Základní mzda Kč/hod
+     - Základní mzda
+     - Kč
