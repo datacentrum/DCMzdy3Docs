@@ -18,167 +18,167 @@ Přehled mzdových složek
      - Název MSL
      - Zadává se
    * - Z
-     - :ref:`1001` <label-1001>
+     - :ref:`1001 <label-1001>`
      - Základní mzda (krácená odpracovanou dobou a úvazkem)
      - Kč
    * - Z
-     - :ref:`1002` <label-1002>
+     - :ref:`1002 <label-1002>`
      - Základní mzda Kč/hod
      - Kč
    * - Z
-     - :ref:`1101` <label-1101>
+     - :ref:`1101 <label-1101>`
      - Osobní ohodnocení (krácené odpracovanou dobou)
      - Kč
    * - Z
-     - :ref:`1102` <label-1102>
+     - :ref:`1102 <label-1102>`
      - Osobní ohodnocení Kč/hod
      - Kč
    * - Z
-     - :ref:`1202` <label-1202>
+     - :ref:`1202 <label-1202>`
      - Dohoda o pracovní činnosti Kč/hod
      - Kč
    * - Z
-     - :ref:`1203` <label-1203>
+     - :ref:`1203 <label-1203>`
      - Dohoda o pracovní činnosti částka a počet hodin
      - Kč,hodiny
    * - Z
-     - :ref:`1204` <label-1204>
+     - :ref:`1204 <label-1204>`
      - Dohoda o pracovní činnosti (hod)
      - hodiny
    * - Z
-     - :ref:`1302` <label-1302>
+     - :ref:`1302 <label-1302>`
      - Dohoda o provedení práce částka v Kč/hod
      - Kč
    * - Z
-     - :ref:`1303` <label-1303>
+     - :ref:`1303 <label-1303>`
      - Dohoda o provedení práce částka a počet hodin
      - Kč, hodiny
    * - Z
-     - :ref:`1304` <label-1304>
+     - :ref:`1304 <label-1304>`
      - Dohoda o provedení práce (hod)
      - hodiny
    * - Z
-     - :ref:`3001` <label-3001>
+     - :ref:`3001 <label-3001>`
      - Odměny měsíční
      - Kč
    * - Z
-     - :ref:`3101` <label-3101>
+     - :ref:`3101 <label-3101>`
      - Odměny čtvrtletní
      - Kč
    * - Z
-     - :ref:`3201` <label-3201>
+     - :ref:`3201 <label-3201>`
      - Odměny pololetní
      - Kč
    * - Z
-     - :ref:`3301` <label-3301>
+     - :ref:`3301 <label-3301>`
      - Odměny roční 
      - Kč
    * - Z
-     - :ref:`3501` <label-3501>
+     - :ref:`3501 <label-3501>`
      - Odměna mimořádná
      - Kč
    * - Z
-     - :ref:`3502` <label-3502>
+     - :ref:`3502 <label-3502>`
      - Odměna stautární orgány
      - Kč
    * - Z
-     - :ref:`4102` <label-4102>
+     - :ref:`4102 <label-4102>`
      - Naturální požitky k přidanění - cestovné
      - Kč
    * - Z
-     - :ref:`4103` <label-4103>
+     - :ref:`4103 <label-4103>`
      - Pořizovací cena vozu pro daň
      - Kč
    * - Z
-     - :ref:`4105` <label-4105>
+     - :ref:`4105 <label-4105>`
      - Naturální požitky nedaněné
      - Kč
    * - Z
-     - :ref:`4106` <label-4106>
+     - :ref:`4106 <label-4106>`
      - Naturální požitky k přidanění - pojištění
      - Kč
    * - Z
-     - :ref:`4112` <label-4112>
+     - :ref:`4112 <label-4112>`
      - Dar z FKSP
      - Kč
    * - Z
-     - :ref:`5001` <label-5001>
+     - :ref:`5001 <label-5001>`
      - Odpracované hodiny
      - hod
    * - Z
-     - :ref:`5101` <label-5101>
+     - :ref:`5101 <label-5101>`
      - Čerpání dovolené (od - do)
      - od-do
    * - Z
-     - :ref:`5107` <label-5107>
+     - :ref:`5107 <label-5107>`
      - Čerpání dovolené 1/2 dne (od - do)
      - od-do
    * - Z
-     - :ref:`5211` <label-5211>
+     - :ref:`5211 <label-5211>`
      - Nemoc (od - do)
      - od-do
    * - Z
-     - :ref:`5215` <label-5215>
+     - :ref:`5215 <label-5215>`
      - Mateřská dovolená
      - jed od
    * - Z
-     - :ref:`5241` <label-5241>
+     - :ref:`5241 <label-5241>`
      - Ošetřování člena rodiny (od - do)
      - od-do
    * - Z
-     - :ref:`5513` <label-5513>
+     - :ref:`5513 <label-5513>`
      - Překážka na straně zaměstnance - návštěva lékaře (hodiny)
      - hod
    * - Z
-     - :ref:`5514` <label-5514>
+     - :ref:`5514 <label-5514>`
      - Překážka na straně zaměstnance - návštěva lékaře (dny)
      - dny
    * - Z
-     - :ref:`5701` <label-5701>
+     - :ref:`5701 <label-5701>`
      - Neplacené volno (od - do)
      - od-do
    * - Z
-     - :ref:`6001` <label-6001>
+     - :ref:`6001 <label-6001>`
      - Náhrada mzdy při DPN
      - od-do
    * - Z
-     - :ref:`6501` <label-6501>
+     - :ref:`6501 <label-6501>`
      - Roční zúčtování daně - daň
      - 
    * - Z
-     - :ref:`6502` <label-6502>
+     - :ref:`6502 <label-6502>`
      - Roční zúčtování daně - bonus
      - 
    * - Z
-     - :ref:`7102` <label-7102>
+     - :ref:`7102 <label-7102>`
      - Výplata na účet
      - účet, banka, VS, KS
    * - Z
-     - :ref:`7301` <label-7301>
+     - :ref:`7301 <label-7301>`
      - Srážka stravenky
      - Kč
    * - Z
-     - :ref:`7304` <label-7304>
+     - :ref:`7304 <label-7304>`
      - Srážka PHM 
      - Kč
    * - Z
-     - :ref:`7401` <label-7401>
+     - :ref:`7401 <label-7401>`
      - Záloha pravidelná k výplatě 
      - Kč
    * - Z
-     - :ref:`7402` <label-7402>
+     - :ref:`7402 <label-7402>`
      - Záloha pravidelná na účet
      - Kč,účet,banka,VS,KS
    * - Z
-     - :ref:`7411` <label-7411>
+     - :ref:`7411 <label-7411>`
      - Záloha mimořádná k výplatě
      - Kč
    * - Z
-     - :ref:`7412` <label-7412>
+     - :ref:`7412 <label-7412>`
      - Záloha mimořádná na účet
      - Kč,účet,banka,VS,KS
    * - Z
-     - :ref:`7420` <label-7420>
+     - :ref:`7420 <label-7420>`
      - Minusová dobírka z předchozího období
      - nezadává se
 
