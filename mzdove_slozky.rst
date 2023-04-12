@@ -192,7 +192,8 @@ Detail mzdových složek
 :Zadává se: Kč
 :Počítá se: V1001
 :MSL/P: 201, 401, 402, 410, 415, 420, 430
-:Popis výpočtu: krátí se odpracovanou dobou 
+:Popis výpočtu: krátí se odpracovanou dobou a úvazkem
+|
 .. _label-1002:
 :Typ: Z
 :Číslo MSL: 1002
@@ -211,7 +212,8 @@ Detail mzdových složek
 :Zadává se: Kč
 :Počítá se: V1101
 :MSL/P: 210, 401, 402, 410, 415, 420, 430
-:Popis výpočtu: krátí se odpracovanou dobou a 
+:Popis výpočtu: krátí se odpracovanou dobou a úvazkem
+|
 .. _label-1102:
 :Typ: Z
 :Číslo MSL: 1102
