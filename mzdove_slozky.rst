@@ -11,10 +11,10 @@ Přehled mzdových složek
 
 .. list-table::
    :header-rows: 1
-   :widths: 20 20 40 20
+   :widths: 15 15 40 20
    
    * - Typ
-     - Číslo MSL
+     - Číslo
      - Název MSL
      - Zadává se
    * - Z
