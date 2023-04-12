@@ -2,7 +2,188 @@
 Mzdové složky
 =================
 
-.. note:: soupis všech, volitené parametry (sazby, Kč), jak se zadávají
+.. contents:: V této části:
+  :local:
+  :depth: 2
+
+Přehled mzdových složek
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. list-table::
+   :header-rows: 1
+   :widths: 20 20 40 20
+   
+   * - Typ
+     - Číslo MSL
+     - Název MSL
+     - Zadává se
+   * - Z
+     - 1001
+     - Základní mzda (krácená odpracovanou dobou a úvazkem)
+     - Kč
+   * - Z
+     - 1002
+     - Základní mzda Kč/hod
+     - Kč
+   * - Z
+     - 1101
+     - Osobní ohodnocení (krácené odpracovanou dobou)
+     - Kč
+   * - Z
+     - 1102
+     - Osobní ohodnocení Kč/hod
+     - Kč
+   * - Z
+     - 1202
+     - Dohoda o pracovní činnosti Kč/hod
+     - Kč
+   * - Z
+     - 1203
+     - Dohoda o pracovní činnosti částka a počet hodin
+     - Kč,hodiny
+   * - Z
+     - 1204
+     - Dohoda o pracovní činnosti (hod)
+     - hodiny
+   * - Z
+     - 1302
+     - Dohoda o provedení práce částka v Kč/hod
+     - Kč
+   * - Z
+     - 1303
+     - Dohoda o provedení práce částka a počet hodin
+     - Kč, hodiny
+   * - Z
+     - 1304
+     - Dohoda o provedení práce (hod)
+     - hodiny
+   * - Z
+     - 3001
+     - Odměny měsíční
+     - Kč
+   * - Z
+     - 3101
+     - Odměny čtvrtletní
+     - Kč
+   * - Z
+     - 3201
+     - Odměny pololetní
+     - Kč
+   * - Z
+     - 3301
+     - Odměny roční 
+     - Kč
+   * - Z
+     - 3501
+     - Odměna mimořádná
+     - Kč
+   * - Z
+     - 3502
+     - Odměna stautární orgány
+     - Kč
+   * - Z
+     - 4102
+     - Naturální požitky k přidanění - cestovné
+     - Kč
+   * - Z
+     - 4103
+     - Pořizovací cena vozu pro daň
+     - Kč
+   * - Z
+     - 4105
+     - Naturální požitky nedaněné
+     - Kč
+   * - Z
+     - 4106
+     - Naturální požitky k přidanění - pojištění
+     - Kč
+   * - Z
+     - 4112
+     - Dar z FKSP
+     - Kč
+   * - Z
+     - 5001
+     - Odpracované hodiny
+     - hod
+   * - Z
+     - 5101
+     - Čerpání dovolené (od - do)
+     - od-do
+   * - Z
+     - 5107
+     - Čerpání dovolené 1/2 dne (od - do)
+     - od-do
+   * - Z
+     - 5211
+     - Nemoc (od - do)
+     - od-do
+   * - Z
+     - 5215
+     - Mateřská dovolená
+     - jed od
+   * - Z
+     - 5241
+     - Ošetřování člena rodiny (od - do)
+     - od-do
+   * - Z
+     - 5513
+     - Překážka na straně zaměstnance - návštěva lékaře (hodiny)
+     - hod
+   * - Z
+     - 5514
+     - Překážka na straně zaměstnance - návštěva lékaře (dny)
+     - dny
+   * - Z
+     - 5701
+     - Neplacené volno (od - do)
+     - od-do
+   * - Z
+     - 6001
+     - Náhrada mzdy při DPN
+     - od-do
+   * - Z
+     - 6501
+     - Roční zúčtování daně - daň
+     - 
+   * - Z
+     - 6502
+     - Roční zúčtování daně - bonus
+     - 
+   * - Z
+     - 7102
+     - Výplata na účet
+     - účet, banka, VS, KS
+   * - Z
+     - 7301
+     - Srážka stravenky
+     - Kč
+   * - Z
+     - 7304
+     - Srážka PHM 
+     - Kč
+   * - Z
+     - 7401
+     - Záloha pravidelná k výplatě 
+     - Kč
+   * - Z
+     - 7402
+     - Záloha pravidelná na účet
+     - Kč,účet,banka,VS,KS
+   * - Z
+     - 7411
+     - Záloha mimořádná k výplatě
+     - Kč
+   * - Z
+     - 7412
+     - Záloha mimořádná na účet
+     - Kč,účet,banka,VS,KS
+   * - Z
+     - 7420
+     - Minusová dobírka z předchozího období
+     - nezadává se
+
+Detail mzdových složek
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 :Typ: Z
 :Číslo MSL: 1001
