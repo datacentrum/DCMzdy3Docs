@@ -18,7 +18,7 @@ Přehled mzdových složek
      - Název MSL
      - Zadává se
    * - Z
-     - 1001
+     - :ref:`<1001>label-1001`
      - Základní mzda (krácená odpracovanou dobou a úvazkem)
      - Kč
    * - Z
@@ -185,8 +185,9 @@ Přehled mzdových složek
 Detail mzdových složek
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+.. _label-1001:
 :Typ: Z
-:Číslo MSL: .. _label-1001: 1001
+:Číslo MSL: 1001
 :Název MSL: Základní mzda (krácená odpracovanou dobou a úvazkem)
 :Název zkrácený: Základní mzda
 :Zadává se: Kč
